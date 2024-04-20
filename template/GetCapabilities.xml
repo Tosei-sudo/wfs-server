@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WFS_Capabilities version="1.1.0" xmlns="http://www.opengis.net/wfs" xmlns:gml="http://www.opengis.net/gml" xmlns:ogc="http://www.opengis.net/ogc" xmlns:ows="http://www.opengis.net/ows" xmlns:wfs="http://www.opengis.net/wfs" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.0.0/WFS-capabilities.xsd">
+  <Service>
+    <Name>WFS</Name>
+    <Title>WFS Service</Title>
+    <OnlineResource xlink:href="http://localhost:9006/wfs" xlink:type="simple" />
+  </Service>
+  <Capability>
+    <Request>
+      <GetCapabilities>
+        <DCPType>
+          <HTTP>
+            <Get onlineResource="http://localhost:9006/wfs" />
+          </HTTP>
+        </DCPType>
+      </GetCapabilities>
+      <DescribeFeatureType>
+        <DCPType>
+          <HTTP>
+            <Get onlineResource="http://localhost:9006/wfs" />
+          </HTTP>
+        </DCPType>
+      </DescribeFeatureType>
+      <GetFeature>
+        <DCPType>
+          <HTTP>
+            <Get onlineResource="http://localhost:9006/wfs" />
+            <Post onlineResource="http://localhost:9006/wfs" />
+          </HTTP>
+        </DCPType>
+      </GetFeature>
+      <Transaction>
+        <DCPType>
+          <HTTP>
+            <Post onlineResource="http://localhost:9006/wfs" />
+          </HTTP>
+        </DCPType>
+      </Transaction>
+    </Request>
+  </Capability>
+  <FeatureTypeList>
+  </FeatureTypeList>
+</WFS_Capabilities>

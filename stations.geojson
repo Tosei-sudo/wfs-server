@@ -1,0 +1,4517 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.714715,
+                    35.7202
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.7202,
+                "title": "\u96d1\u53f8\u304c\u8c37",
+                "sameAs": "odpt.Station:TokyoMetro.Fukutoshin.Zoshigaya",
+                "stationCode": "F10",
+                "long": 139.714715,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Fukutoshin",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C471B"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.737347,
+                    35.676845
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.676845,
+                "title": "\u8d64\u5742\u898b\u9644",
+                "sameAs": "odpt.Station:TokyoMetro.Ginza.AkasakaMitsuke",
+                "stationCode": "G05",
+                "long": 139.737347,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Ginza",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46BA"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.724145,
+                    35.67279
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.67279,
+                "title": "\u9752\u5c71\u4e00\u4e01\u76ee",
+                "sameAs": "odpt.Station:TokyoMetro.Ginza.AoyamaItchome",
+                "stationCode": "G04",
+                "long": 139.724145,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Ginza",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46B5"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.797774,
+                    35.710746
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.710746,
+                "title": "\u6d45\u8349",
+                "sameAs": "odpt.Station:TokyoMetro.Ginza.Asakusa",
+                "stationCode": "G19",
+                "long": 139.797774,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Ginza",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46BC"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.765366,
+                    35.6715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.6715,
+                "title": "\u9280\u5ea7",
+                "sameAs": "odpt.Station:TokyoMetro.Ginza.Ginza",
+                "stationCode": "G09",
+                "long": 139.765366,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Ginza",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46F1"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.773582,
+                    35.687173
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.687173,
+                "title": "\u4e09\u8d8a\u524d",
+                "sameAs": "odpt.Station:TokyoMetro.Ginza.Mitsukoshimae",
+                "stationCode": "G12",
+                "long": 139.773582,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Ginza",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4750"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.773335,
+                    35.681879
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.681879,
+                "title": "\u65e5\u672c\u6a4b",
+                "sameAs": "odpt.Station:TokyoMetro.Ginza.Nihombashi",
+                "stationCode": "G11",
+                "long": 139.773335,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Ginza",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C473B"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.712473,
+                    35.665042
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.665042,
+                "title": "\u8868\u53c2\u9053",
+                "sameAs": "odpt.Station:TokyoMetro.Ginza.OmoteSando",
+                "stationCode": "G02",
+                "long": 139.712473,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Ginza",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46DA"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.76575,
+                    35.717325
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.717325,
+                "title": "\u6839\u6d25",
+                "sameAs": "odpt.Station:TokyoMetro.Chiyoda.Nezu",
+                "stationCode": "C14",
+                "long": 139.76575,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Chiyoda",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C473E"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.702673,
+                    35.659097
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.659097,
+                "title": "\u6e0b\u8c37",
+                "sameAs": "odpt.Station:TokyoMetro.Ginza.Shibuya",
+                "stationCode": "G01",
+                "long": 139.702673,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Ginza",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4703"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.758512,
+                    35.667382
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.667382,
+                "title": "\u65b0\u6a4b",
+                "sameAs": "odpt.Station:TokyoMetro.Ginza.Shimbashi",
+                "stationCode": "G08",
+                "long": 139.758512,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Ginza",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4713"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.741943,
+                    35.671511
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.671511,
+                "title": "\u6e9c\u6c60\u5c71\u738b",
+                "sameAs": "odpt.Station:TokyoMetro.Ginza.TameikeSanno",
+                "stationCode": "G06",
+                "long": 139.741943,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Ginza",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C471F"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.76178,
+                    35.680505
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.680505,
+                "title": "\u4e8c\u91cd\u6a4b\u524d\u3008\u4e38\u306e\u5185\u3009",
+                "sameAs": "odpt.Station:TokyoMetro.Chiyoda.Nijubashimae",
+                "stationCode": "C10",
+                "long": 139.76178,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Chiyoda",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C473A"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.75012,
+                    35.67016
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.67016,
+                "title": "\u864e\u30ce\u9580",
+                "sameAs": "odpt.Station:TokyoMetro.Ginza.Toranomon",
+                "stationCode": "G07",
+                "long": 139.75012,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Ginza",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C472A"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.773011,
+                    35.707765
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.707765,
+                "title": "\u4e0a\u91ce\u5e83\u5c0f\u8def",
+                "sameAs": "odpt.Station:TokyoMetro.Ginza.UenoHirokoji",
+                "stationCode": "G15",
+                "long": 139.773011,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Ginza",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46CB"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.775625,
+                    35.711835
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.711835,
+                "title": "\u4e0a\u91ce",
+                "sameAs": "odpt.Station:TokyoMetro.Ginza.Ueno",
+                "stationCode": "G16",
+                "long": 139.775625,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Ginza",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46CA"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.75756,
+                    35.696021
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.696021,
+                "title": "\u795e\u4fdd\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Hanzomon.Jimbocho",
+                "stationCode": "Z07",
+                "long": 139.75756,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hanzomon",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4714"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.814957,
+                    35.697441
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.697441,
+                "title": "\u9326\u7cf8\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Hanzomon.Kinshicho",
+                "stationCode": "Z13",
+                "long": 139.814957,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hanzomon",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46F5"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.799841,
+                    35.682119
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.682119,
+                "title": "\u6e05\u6f84\u767d\u6cb3",
+                "sameAs": "odpt.Station:TokyoMetro.Hanzomon.KiyosumiShirakawa",
+                "stationCode": "Z11",
+                "long": 139.799841,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hanzomon",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46F0"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.751117,
+                    35.695501
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.695501,
+                "title": "\u4e5d\u6bb5\u4e0b",
+                "sameAs": "odpt.Station:TokyoMetro.Hanzomon.Kudanshita",
+                "stationCode": "Z06",
+                "long": 139.751117,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hanzomon",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46F7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.77308,
+                    35.684928
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.684928,
+                "title": "\u4e09\u8d8a\u524d",
+                "sameAs": "odpt.Station:TokyoMetro.Hanzomon.Mitsukoshimae",
+                "stationCode": "Z09",
+                "long": 139.77308,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hanzomon",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4751"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.769981,
+                    35.706805
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.706805,
+                "title": "\u6e6f\u5cf6",
+                "sameAs": "odpt.Station:TokyoMetro.Chiyoda.Yushima",
+                "stationCode": "C13",
+                "long": 139.769981,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Chiyoda",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C475E"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.738865,
+                    35.678407
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.678407,
+                "title": "\u6c38\u7530\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Hanzomon.Nagatacho",
+                "stationCode": "Z04",
+                "long": 139.738865,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hanzomon",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C472D"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.712383,
+                    35.665143
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.665143,
+                "title": "\u8868\u53c2\u9053",
+                "sameAs": "odpt.Station:TokyoMetro.Hanzomon.OmoteSando",
+                "stationCode": "Z02",
+                "long": 139.712383,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hanzomon",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46DC"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.813735,
+                    35.708467
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.708467,
+                "title": "\u62bc\u4e0a\u3008\u30b9\u30ab\u30a4\u30c4\u30ea\u30fc\u524d\u3009",
+                "sameAs": "odpt.Station:TokyoMetro.Hanzomon.Oshiage",
+                "stationCode": "Z14",
+                "long": 139.813735,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hanzomon",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46D7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.764905,
+                    35.686745
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.686745,
+                "title": "\u5927\u624b\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Hanzomon.Otemachi",
+                "stationCode": "Z08",
+                "long": 139.764905,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hanzomon",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46D5"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.701035,
+                    35.65945
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.65945,
+                "title": "\u6e0b\u8c37",
+                "sameAs": "odpt.Station:TokyoMetro.Hanzomon.Shibuya",
+                "stationCode": "Z01",
+                "long": 139.701035,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hanzomon",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4704"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.785171,
+                    35.683
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.683,
+                "title": "\u6c34\u5929\u5bae\u524d",
+                "sameAs": "odpt.Station:TokyoMetro.Hanzomon.Suitengumae",
+                "stationCode": "Z10",
+                "long": 139.785171,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hanzomon",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4715"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.815667,
+                    35.688704
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.688704,
+                "title": "\u4f4f\u5409",
+                "sameAs": "odpt.Station:TokyoMetro.Hanzomon.Sumiyoshi",
+                "stationCode": "Z12",
+                "long": 139.815667,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hanzomon",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4717"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.775529,
+                    35.697965
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.697965,
+                "title": "\u79cb\u8449\u539f",
+                "sameAs": "odpt.Station:TokyoMetro.Hibiya.Akihabara",
+                "stationCode": "H16",
+                "long": 139.775529,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hibiya",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46B8"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.708701,
+                    35.64704
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.64704,
+                "title": "\u6075\u6bd4\u5bff",
+                "sameAs": "odpt.Station:TokyoMetro.Hibiya.Ebisu",
+                "stationCode": "H02",
+                "long": 139.708701,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hibiya",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46CF"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.764007,
+                    35.671983
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.671983,
+                "title": "\u9280\u5ea7",
+                "sameAs": "odpt.Station:TokyoMetro.Hibiya.Ginza",
+                "stationCode": "H09",
+                "long": 139.764007,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hibiya",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46F3"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.777334,
+                    35.675368
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.675368,
+                "title": "\u516b\u4e01\u5800",
+                "sameAs": "odpt.Station:TokyoMetro.Hibiya.Hatchobori",
+                "stationCode": "H12",
+                "long": 139.777334,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hibiya",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4740"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7606,
+                    35.674271
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.674271,
+                "title": "\u65e5\u6bd4\u8c37",
+                "sameAs": "odpt.Station:TokyoMetro.Hibiya.Hibiya",
+                "stationCode": "H08",
+                "long": 139.7606,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hibiya",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4748"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.767633,
+                    35.669129
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.669129,
+                "title": "\u6771\u9280\u5ea7",
+                "sameAs": "odpt.Station:TokyoMetro.Hibiya.HigashiGinza",
+                "stationCode": "H10",
+                "long": 139.767633,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hibiya",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4744"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.75106,
+                    35.673875
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.673875,
+                "title": "\u971e\u30b1\u95a2",
+                "sameAs": "odpt.Station:TokyoMetro.Hibiya.Kasumigaseki",
+                "stationCode": "H07",
+                "long": 139.75106,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hibiya",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46E1"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.779619,
+                    35.679078
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.679078,
+                "title": "\u8305\u5834\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Hibiya.Kayabacho",
+                "stationCode": "H13",
+                "long": 139.779619,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hibiya",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46E6"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.805591,
+                    35.749904
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.749904,
+                "title": "\u5317\u5343\u4f4f",
+                "sameAs": "odpt.Station:TokyoMetro.Hibiya.KitaSenju",
+                "stationCode": "H22",
+                "long": 139.805591,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hibiya",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46EB"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.79878,
+                    35.73231
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.73231,
+                "title": "\u5357\u5343\u4f4f",
+                "sameAs": "odpt.Station:TokyoMetro.Hibiya.MinamiSenju",
+                "stationCode": "H21",
+                "long": 139.79878,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hibiya",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4755"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.698833,
+                    35.644108
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.644108,
+                "title": "\u4e2d\u76ee\u9ed2",
+                "sameAs": "odpt.Station:TokyoMetro.Hibiya.NakaMeguro",
+                "stationCode": "H01",
+                "long": 139.698833,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hibiya",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4733"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.77089,
+                    35.693715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.693715,
+                "title": "\u795e\u7530",
+                "sameAs": "odpt.Station:TokyoMetro.Ginza.Kanda",
+                "stationCode": "G13",
+                "long": 139.77089,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Ginza",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46E8"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.77619,
+                    35.706655
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.706655,
+                "title": "\u4ef2\u5fa1\u5f92\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Hibiya.NakaOkachimachi",
+                "stationCode": "H17",
+                "long": 139.77619,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hibiya",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C472B"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.612865,
+                    35.78835
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.78835,
+                "title": "\u548c\u5149\u5e02",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.Wakoshi",
+                "stationCode": "Y01",
+                "long": 139.612865,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4766"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.782339,
+                    35.686259
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.686259,
+                "title": "\u4eba\u5f62\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Hibiya.Ningyocho",
+                "stationCode": "H14",
+                "long": 139.782339,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hibiya",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C473D"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.731155,
+                    35.6628
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.6628,
+                "title": "\u516d\u672c\u6728",
+                "sameAs": "odpt.Station:TokyoMetro.Hibiya.Roppongi",
+                "stationCode": "H04",
+                "long": 139.731155,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hibiya",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4764"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.747738,
+                    35.667309
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.667309,
+                "title": "\u864e\u30ce\u9580\u30d2\u30eb\u30ba",
+                "sameAs": "odpt.Station:TokyoMetro.Hibiya.ToranomonHills",
+                "stationCode": "H06",
+                "long": 139.747738,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hibiya",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000034A133B"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.772473,
+                    35.667928
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.667928,
+                "title": "\u7bc9\u5730",
+                "sameAs": "odpt.Station:TokyoMetro.Hibiya.Tsukiji",
+                "stationCode": "H11",
+                "long": 139.772473,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hibiya",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4724"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.777061,
+                    35.711558
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.711558,
+                "title": "\u4e0a\u91ce",
+                "sameAs": "odpt.Station:TokyoMetro.Hibiya.Ueno",
+                "stationCode": "H18",
+                "long": 139.777061,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hibiya",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46CD"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.737347,
+                    35.676845
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.676845,
+                "title": "\u8d64\u5742\u898b\u9644",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.AkasakaMitsuke",
+                "stationCode": "M13",
+                "long": 139.737347,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46BB"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.767455,
+                    35.69487
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.69487,
+                "title": "\u6de1\u8def\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.Awajicho",
+                "stationCode": "M19",
+                "long": 139.767455,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46BF"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.763876,
+                    35.673159
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.673159,
+                "title": "\u9280\u5ea7",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.Ginza",
+                "stationCode": "M16",
+                "long": 139.763876,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46F2"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.760154,
+                    35.706726
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.706726,
+                "title": "\u672c\u90f7\u4e09\u4e01\u76ee",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.HongoSanchome",
+                "stationCode": "M21",
+                "long": 139.760154,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C474D"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.71115,
+                    35.730345
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.730345,
+                "title": "\u6c60\u888b",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro",
+                "stationCode": "M25",
+                "long": 139.71115,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46C3"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.724075,
+                    35.672956
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.672956,
+                "title": "\u9752\u5c71\u4e00\u4e01\u76ee",
+                "sameAs": "odpt.Station:TokyoMetro.Hanzomon.AoyamaItchome",
+                "stationCode": "Z03",
+                "long": 139.724075,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hanzomon",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46B6"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.75268,
+                    35.674235
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.674235,
+                "title": "\u971e\u30b1\u95a2",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.Kasumigaseki",
+                "stationCode": "M15",
+                "long": 139.75268,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46E0"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.745473,
+                    35.674926
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.674926,
+                "title": "\u56fd\u4f1a\u8b70\u4e8b\u5802\u524d",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.KokkaiGijidomae",
+                "stationCode": "M14",
+                "long": 139.745473,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46FE"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.750861,
+                    35.707307
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.707307,
+                "title": "\u5f8c\u697d\u5712",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.Korakuen",
+                "stationCode": "M22",
+                "long": 139.750861,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46F9"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.682205,
+                    35.697085
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.697085,
+                "title": "\u4e2d\u91ce\u5742\u4e0a",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.NakanoSakaue",
+                "stationCode": "M06",
+                "long": 139.682205,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4730"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.764405,
+                    35.70043
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.70043,
+                "title": "\u5fa1\u8336\u30ce\u6c34",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.Ochanomizu",
+                "stationCode": "M20",
+                "long": 139.764405,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46D9"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.61976,
+                    35.704175
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.704175,
+                "title": "\u837b\u7aaa",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.Ogikubo",
+                "stationCode": "M01",
+                "long": 139.61976,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46D6"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.766203,
+                    35.686875
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.686875,
+                "title": "\u5927\u624b\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.Otemachi",
+                "stationCode": "M18",
+                "long": 139.766203,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46D2"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.737362,
+                    35.75447
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.75447,
+                "title": "\u738b\u5b50",
+                "sameAs": "odpt.Station:TokyoMetro.Namboku.Oji",
+                "stationCode": "N16",
+                "long": 139.737362,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Namboku",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46D0"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.70421,
+                    35.69118
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.69118,
+                "title": "\u65b0\u5bbf\u4e09\u4e01\u76ee",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.ShinjukuSanchome",
+                "stationCode": "M09",
+                "long": 139.70421,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C470F"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.682205,
+                    35.697085
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.697085,
+                "title": "\u4e2d\u91ce\u5742\u4e0a",
+                "sameAs": "odpt.Station:TokyoMetro.MarunouchiBranch.NakanoSakaue",
+                "stationCode": "M06",
+                "long": 139.682205,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.MarunouchiBranch",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C9703"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.72211,
+                    35.783355
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.783355,
+                "title": "\u8d64\u7fbd\u5ca9\u6df5",
+                "sameAs": "odpt.Station:TokyoMetro.Namboku.AkabaneIwabuchi",
+                "stationCode": "N19",
+                "long": 139.72211,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Namboku",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46B7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.737045,
+                    35.65481
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.65481,
+                "title": "\u9ebb\u5e03\u5341\u756a",
+                "sameAs": "odpt.Station:TokyoMetro.Namboku.AzabuJuban",
+                "stationCode": "N04",
+                "long": 139.737045,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Namboku",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46BD"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.736324,
+                    35.692894
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.692894,
+                "title": "\u5e02\u30b1\u8c37",
+                "sameAs": "odpt.Station:TokyoMetro.Namboku.Ichigaya",
+                "stationCode": "N09",
+                "long": 139.736324,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Namboku",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46C7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.743716,
+                    35.701532
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.701532,
+                "title": "\u98ef\u7530\u6a4b",
+                "sameAs": "odpt.Station:TokyoMetro.Namboku.Iidabashi",
+                "stationCode": "N10",
+                "long": 139.743716,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Namboku",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46C2"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.746909,
+                    35.735913
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.735913,
+                "title": "\u99d2\u8fbc",
+                "sameAs": "odpt.Station:TokyoMetro.Namboku.Komagome",
+                "stationCode": "N14",
+                "long": 139.746909,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Namboku",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4701"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.751786,
+                    35.70839
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.70839,
+                "title": "\u5f8c\u697d\u5712",
+                "sameAs": "odpt.Station:TokyoMetro.Namboku.Korakuen",
+                "stationCode": "N11",
+                "long": 139.751786,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Namboku",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46FA"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.71566,
+                    35.632485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.632485,
+                "title": "\u76ee\u9ed2",
+                "sameAs": "odpt.Station:TokyoMetro.Namboku.Meguro",
+                "stationCode": "N01",
+                "long": 139.71566,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Namboku",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C475B"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.739288,
+                    35.678338
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.678338,
+                "title": "\u6c38\u7530\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Namboku.Nagatacho",
+                "stationCode": "N07",
+                "long": 139.739288,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Namboku",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C472E"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.734285,
+                    35.643145
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.643145,
+                "title": "\u767d\u91d1\u9ad8\u8f2a",
+                "sameAs": "odpt.Station:TokyoMetro.Namboku.ShirokaneTakanawa",
+                "stationCode": "N03",
+                "long": 139.734285,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Namboku",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4708"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.72586,
+                    35.63777
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.63777,
+                "title": "\u767d\u91d1\u53f0",
+                "sameAs": "odpt.Station:TokyoMetro.Namboku.Shirokanedai",
+                "stationCode": "N02",
+                "long": 139.72586,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Namboku",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4707"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.741294,
+                    35.673091
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.673091,
+                "title": "\u6e9c\u6c60\u5c71\u738b",
+                "sameAs": "odpt.Station:TokyoMetro.Namboku.TameikeSanno",
+                "stationCode": "N06",
+                "long": 139.741294,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Namboku",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4720"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.751265,
+                    35.696091
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.696091,
+                "title": "\u4e5d\u6bb5\u4e0b",
+                "sameAs": "odpt.Station:TokyoMetro.Tozai.Kudanshita",
+                "stationCode": "T07",
+                "long": 139.751265,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Tozai",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46F6"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.72968,
+                    35.686082
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.686082,
+                "title": "\u56db\u30c4\u8c37",
+                "sameAs": "odpt.Station:TokyoMetro.Namboku.Yotsuya",
+                "stationCode": "N08",
+                "long": 139.72968,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Namboku",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4760"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.746521,
+                    35.701403
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.701403,
+                "title": "\u98ef\u7530\u6a4b",
+                "sameAs": "odpt.Station:TokyoMetro.Tozai.Iidabashi",
+                "stationCode": "T06",
+                "long": 139.746521,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Tozai",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46C0"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.77927,
+                    35.680346
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.680346,
+                "title": "\u8305\u5834\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Tozai.Kayabacho",
+                "stationCode": "T11",
+                "long": 139.77927,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Tozai",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46E7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.791165,
+                    35.729285
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.729285,
+                "title": "\u4e09\u30ce\u8f2a",
+                "sameAs": "odpt.Station:TokyoMetro.Hibiya.Minowa",
+                "stationCode": "H20",
+                "long": 139.791165,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hibiya",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4756"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.796099,
+                    35.671892
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.671892,
+                "title": "\u9580\u524d\u4ef2\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Tozai.MonzenNakacho",
+                "stationCode": "T12",
+                "long": 139.796099,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Tozai",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C475C"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.665605,
+                    35.70574
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.70574,
+                "title": "\u4e2d\u91ce",
+                "sameAs": "odpt.Station:TokyoMetro.Tozai.Nakano",
+                "stationCode": "T01",
+                "long": 139.665605,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Tozai",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C472F"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.774101,
+                    35.682376
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.682376,
+                "title": "\u65e5\u672c\u6a4b",
+                "sameAs": "odpt.Station:TokyoMetro.Tozai.Nihombashi",
+                "stationCode": "T10",
+                "long": 139.774101,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Tozai",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C473C"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.958767,
+                    35.707174
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.707174,
+                "title": "\u897f\u8239\u6a4b",
+                "sameAs": "odpt.Station:TokyoMetro.Tozai.NishiFunabashi",
+                "stationCode": "T23",
+                "long": 139.958767,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Tozai",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4738"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.705045,
+                    35.71328
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.71328,
+                "title": "\u9ad8\u7530\u99ac\u5834",
+                "sameAs": "odpt.Station:TokyoMetro.Tozai.Takadanobaba",
+                "stationCode": "T03",
+                "long": 139.705045,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Tozai",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C471C"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.644,
+                    35.769981
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.769981,
+                "title": "\u5730\u4e0b\u9244\u8d64\u585a",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.ChikatetsuAkatsuka",
+                "stationCode": "Y03",
+                "long": 139.644,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4722"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.63117,
+                    35.77674
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.77674,
+                "title": "\u5730\u4e0b\u9244\u6210\u5897",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.ChikatetsuNarimasu",
+                "stationCode": "Y02",
+                "long": 139.63117,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4723"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.766786,
+                    35.674519
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.674519,
+                "title": "\u9280\u5ea7\u4e00\u4e01\u76ee",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.GinzaItchome",
+                "stationCode": "Y19",
+                "long": 139.766786,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46F4"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6543,
+                    35.757555
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.757555,
+                "title": "\u5e73\u548c\u53f0",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.Heiwadai",
+                "stationCode": "Y04",
+                "long": 139.6543,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C474B"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.718865,
+                    35.72595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.72595,
+                "title": "\u6771\u6c60\u888b",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.HigashiIkebukuro",
+                "stationCode": "Y10",
+                "long": 139.718865,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4743"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.66547,
+                    35.74962
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.74962,
+                "title": "\u6c37\u5ddd\u53f0",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.Hikawadai",
+                "stationCode": "Y05",
+                "long": 139.66547,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4747"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.736891,
+                    35.692576
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.692576,
+                "title": "\u5e02\u30b1\u8c37",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.Ichigaya",
+                "stationCode": "Y14",
+                "long": 139.736891,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46C6"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.743207,
+                    35.701342
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.701342,
+                "title": "\u98ef\u7530\u6a4b",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.Iidabashi",
+                "stationCode": "Y13",
+                "long": 139.743207,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46C1"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.710885,
+                    35.729185
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.729185,
+                "title": "\u6c60\u888b",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.Ikebukuro",
+                "stationCode": "Y09",
+                "long": 139.710885,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46C4"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.69848,
+                    35.733215
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.733215,
+                "title": "\u8981\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.Kanamecho",
+                "stationCode": "Y08",
+                "long": 139.69848,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46E3"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.67952,
+                    35.743395
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.743395,
+                "title": "\u5c0f\u7af9\u5411\u539f",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.KotakeMukaihara",
+                "stationCode": "Y06",
+                "long": 139.67952,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46FC"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.741773,
+                    35.677895
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.677895,
+                "title": "\u6c38\u7530\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.Nagatacho",
+                "stationCode": "Y16",
+                "long": 139.741773,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C472C"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6894,
+                    35.738175
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.738175,
+                "title": "\u5343\u5ddd",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.Senkawa",
+                "stationCode": "Y07",
+                "long": 139.6894,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4718"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.773594,
+                    35.670529
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.670529,
+                "title": "\u65b0\u5bcc\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.Shintomicho",
+                "stationCode": "Y20",
+                "long": 139.773594,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4711"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.784405,
+                    35.664711
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.664711,
+                "title": "\u6708\u5cf6",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.Tsukishima",
+                "stationCode": "Y21",
+                "long": 139.784405,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4725"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.762286,
+                    35.675973
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.675973,
+                "title": "\u6709\u697d\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.Yurakucho",
+                "stationCode": "Y18",
+                "long": 139.762286,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C475D"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.730047,
+                    35.684197
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.684197,
+                "title": "\u56db\u30c4\u8c37",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.Yotsuya",
+                "stationCode": "M12",
+                "long": 139.730047,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C475F"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.74226,
+                    35.745945
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.745945,
+                "title": "\u897f\u30b1\u539f",
+                "sameAs": "odpt.Station:TokyoMetro.Namboku.Nishigahara",
+                "stationCode": "N15",
+                "long": 139.74226,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Namboku",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4735"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.914185,
+                    35.68262
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.68262,
+                "title": "\u884c\u5fb3",
+                "sameAs": "odpt.Station:TokyoMetro.Tozai.Gyotoku",
+                "stationCode": "T20",
+                "long": 139.914185,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Tozai",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46EE"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.700548,
+                    35.692452
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.692452,
+                "title": "\u65b0\u5bbf",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.Shinjuku",
+                "stationCode": "M08",
+                "long": 139.700548,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C470D"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.832095,
+                    35.77689
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.77689,
+                "title": "\u5317\u7dbe\u702c",
+                "sameAs": "odpt.Station:TokyoMetro.Chiyoda.KitaAyase",
+                "stationCode": "C20",
+                "long": 139.832095,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Chiyoda",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46E9"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.726229,
+                    35.666592
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.666592,
+                "title": "\u4e43\u6728\u5742",
+                "sameAs": "odpt.Station:TokyoMetro.Chiyoda.Nogizaka",
+                "stationCode": "C05",
+                "long": 139.726229,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Chiyoda",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C473F"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.763303,
+                    35.725746
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.725746,
+                "title": "\u5343\u99c4\u6728",
+                "sameAs": "odpt.Station:TokyoMetro.Chiyoda.Sendagi",
+                "stationCode": "C15",
+                "long": 139.763303,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Chiyoda",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C471A"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.689791,
+                    35.669104
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.669104,
+                "title": "\u4ee3\u3005\u6728\u516c\u5712",
+                "sameAs": "odpt.Station:TokyoMetro.Chiyoda.YoyogiKoen",
+                "stationCode": "C02",
+                "long": 139.689791,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Chiyoda",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4763"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.705469,
+                    35.678503
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.678503,
+                "title": "\u5317\u53c2\u9053",
+                "sameAs": "odpt.Station:TokyoMetro.Fukutoshin.KitaSando",
+                "stationCode": "F14",
+                "long": 139.705469,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Fukutoshin",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46EA"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.70912,
+                    35.707806
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.707806,
+                "title": "\u897f\u65e9\u7a32\u7530",
+                "sameAs": "odpt.Station:TokyoMetro.Fukutoshin.NishiWaseda",
+                "stationCode": "F11",
+                "long": 139.70912,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Fukutoshin",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4739"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.717825,
+                    35.670375
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.670375,
+                "title": "\u5916\u82d1\u524d",
+                "sameAs": "odpt.Station:TokyoMetro.Ginza.Gaiemmae",
+                "stationCode": "G03",
+                "long": 139.717825,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Ginza",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46DD"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.77011,
+                    35.676704
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.676704,
+                "title": "\u4eac\u6a4b",
+                "sameAs": "odpt.Station:TokyoMetro.Ginza.Kyobashi",
+                "stationCode": "G10",
+                "long": 139.77011,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Ginza",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46EF"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.771762,
+                    35.70278
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.70278,
+                "title": "\u672b\u5e83\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Ginza.Suehirocho",
+                "stationCode": "G14",
+                "long": 139.771762,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Ginza",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4716"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.790306,
+                    35.709917
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.709917,
+                "title": "\u7530\u539f\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Ginza.Tawaramachi",
+                "stationCode": "G18",
+                "long": 139.790306,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Ginza",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4721"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.741695,
+                    35.68538
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.68538,
+                "title": "\u534a\u8535\u9580",
+                "sameAs": "odpt.Station:TokyoMetro.Hanzomon.Hanzomon",
+                "stationCode": "Z05",
+                "long": 139.741695,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hanzomon",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4742"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.722209,
+                    35.651499
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.651499,
+                "title": "\u5e83\u5c3e",
+                "sameAs": "odpt.Station:TokyoMetro.Hibiya.HiroO",
+                "stationCode": "H03",
+                "long": 139.722209,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hibiya",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C474A"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.784466,
+                    35.720565
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.720565,
+                "title": "\u5165\u8c37",
+                "sameAs": "odpt.Station:TokyoMetro.Hibiya.Iriya",
+                "stationCode": "H19",
+                "long": 139.784466,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hibiya",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46C9"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.744725,
+                    35.662625
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.662625,
+                "title": "\u795e\u8c37\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Hibiya.Kamiyacho",
+                "stationCode": "H05",
+                "long": 139.744725,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hibiya",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46E5"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.778758,
+                    35.690423
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.690423,
+                "title": "\u5c0f\u4f1d\u99ac\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Hibiya.Kodemmacho",
+                "stationCode": "H15",
+                "long": 139.778758,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Hibiya",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4700"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.658295,
+                    35.697965
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.697965,
+                "title": "\u6771\u9ad8\u5186\u5bfa",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.HigashiKoenji",
+                "stationCode": "M04",
+                "long": 139.658295,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4745"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.635575,
+                    35.699455
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.699455,
+                "title": "\u5357\u963f\u4f50\u30b1\u8c37",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.MinamiAsagaya",
+                "stationCode": "M02",
+                "long": 139.635575,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4752"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.736895,
+                    35.7172
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.7172,
+                "title": "\u8317\u8377\u8c37",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.Myogadani",
+                "stationCode": "M23",
+                "long": 139.736895,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4757"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.69256,
+                    35.694515
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.694515,
+                "title": "\u897f\u65b0\u5bbf",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.NishiShinjuku",
+                "stationCode": "M07",
+                "long": 139.69256,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4736"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.64851,
+                    35.69786
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.69786,
+                "title": "\u65b0\u9ad8\u5186\u5bfa",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.ShinKoenji",
+                "stationCode": "M03",
+                "long": 139.64851,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C470C"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.66951,
+                    35.697475
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.697475,
+                "title": "\u65b0\u4e2d\u91ce",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.ShinNakano",
+                "stationCode": "M05",
+                "long": 139.66951,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4712"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.729354,
+                    35.72613
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.72613,
+                "title": "\u65b0\u5927\u585a",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.ShinOtsuka",
+                "stationCode": "M24",
+                "long": 139.729354,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4709"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.710915,
+                    35.688525
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.688525,
+                "title": "\u65b0\u5bbf\u5fa1\u82d1\u524d",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.ShinjukuGyoemmae",
+                "stationCode": "M10",
+                "long": 139.710915,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C470E"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.719325,
+                    35.687835
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.687835,
+                "title": "\u56db\u8c37\u4e09\u4e01\u76ee",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.YotsuyaSanchome",
+                "stationCode": "M11",
+                "long": 139.719325,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4761"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.657935,
+                    35.683515
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.683515,
+                "title": "\u65b9\u5357\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.MarunouchiBranch.Honancho",
+                "stationCode": "Mb03",
+                "long": 139.657935,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.MarunouchiBranch",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C474C"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7648,
+                    35.681935
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.681935,
+                "title": "\u6771\u4eac",
+                "sameAs": "odpt.Station:TokyoMetro.Marunouchi.Tokyo",
+                "stationCode": "M17",
+                "long": 139.7648,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Marunouchi",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4726"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.668155,
+                    35.69082
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.69082,
+                "title": "\u4e2d\u91ce\u5bcc\u58eb\u898b\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.MarunouchiBranch.NakanoFujimicho",
+                "stationCode": "Mb04",
+                "long": 139.668155,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.MarunouchiBranch",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4732"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.674001,
+                    35.691685
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.691685,
+                "title": "\u4e2d\u91ce\u65b0\u6a4b",
+                "sameAs": "odpt.Station:TokyoMetro.MarunouchiBranch.NakanoShimbashi",
+                "stationCode": "Mb05",
+                "long": 139.674001,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.MarunouchiBranch",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4731"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.753812,
+                    35.724365
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.724365,
+                "title": "\u672c\u99d2\u8fbc",
+                "sameAs": "odpt.Station:TokyoMetro.Namboku.HonKomagome",
+                "stationCode": "N13",
+                "long": 139.753812,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Namboku",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C474E"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.735641,
+                    35.765292
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.765292,
+                "title": "\u738b\u5b50\u795e\u8c37",
+                "sameAs": "odpt.Station:TokyoMetro.Namboku.OjiKamiya",
+                "stationCode": "N17",
+                "long": 139.735641,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Namboku",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46D1"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7389,
+                    35.665075
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.665075,
+                "title": "\u516d\u672c\u6728\u4e00\u4e01\u76ee",
+                "sameAs": "odpt.Station:TokyoMetro.Namboku.RoppongiItchome",
+                "stationCode": "N05",
+                "long": 139.7389,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Namboku",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4765"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7325,
+                    35.778025
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.778025,
+                "title": "\u5fd7\u8302",
+                "sameAs": "odpt.Station:TokyoMetro.Namboku.Shimo",
+                "stationCode": "N18",
+                "long": 139.7325,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Namboku",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4706"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.75788,
+                    35.718014
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.718014,
+                "title": "\u6771\u5927\u524d",
+                "sameAs": "odpt.Station:TokyoMetro.Namboku.Todaimae",
+                "stationCode": "N12",
+                "long": 139.75788,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Namboku",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4727"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.941915,
+                    35.7033
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.7033,
+                "title": "\u539f\u6728\u4e2d\u5c71",
+                "sameAs": "odpt.Station:TokyoMetro.Tozai.BarakiNakayama",
+                "stationCode": "T22",
+                "long": 139.941915,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Tozai",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4741"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.73452,
+                    35.703865
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.703865,
+                "title": "\u795e\u697d\u5742",
+                "sameAs": "odpt.Station:TokyoMetro.Tozai.Kagurazaka",
+                "stationCode": "T05",
+                "long": 139.73452,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Tozai",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46DE"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.87253,
+                    35.663616
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.663616,
+                "title": "\u845b\u897f",
+                "sameAs": "odpt.Station:TokyoMetro.Tozai.Kasai",
+                "stationCode": "T17",
+                "long": 139.87253,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Tozai",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46DF"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.902276,
+                    35.672729
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.672729,
+                "title": "\u5357\u884c\u5fb3",
+                "sameAs": "odpt.Station:TokyoMetro.Tozai.MinamiGyotoku",
+                "stationCode": "T19",
+                "long": 139.902276,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Tozai",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4753"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.831695,
+                    35.668415
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.668415,
+                "title": "\u5357\u7802\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Tozai.MinamiSunamachi",
+                "stationCode": "T15",
+                "long": 139.831695,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Tozai",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4754"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.924286,
+                    35.691014
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.691014,
+                "title": "\u5999\u5178",
+                "sameAs": "odpt.Station:TokyoMetro.Tozai.Myoden",
+                "stationCode": "T21",
+                "long": 139.924286,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Tozai",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4758"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.76603,
+                    35.684697
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.684697,
+                "title": "\u5927\u624b\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Tozai.Otemachi",
+                "stationCode": "T09",
+                "long": 139.76603,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Tozai",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46D3"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.78221,
+                    35.711389
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.711389,
+                "title": "\u7a32\u8377\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Ginza.Inaricho",
+                "stationCode": "G17",
+                "long": 139.78221,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Ginza",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46C8"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.8596,
+                    35.664562
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.664562,
+                "title": "\u897f\u845b\u897f",
+                "sameAs": "odpt.Station:TokyoMetro.Tozai.NishiKasai",
+                "stationCode": "T16",
+                "long": 139.8596,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Tozai",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4734"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.685965,
+                    35.710635
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.710635,
+                "title": "\u843d\u5408",
+                "sameAs": "odpt.Station:TokyoMetro.Tozai.Ochiai",
+                "stationCode": "T02",
+                "long": 139.685965,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Tozai",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46D8"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.72219,
+                    35.70568
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.70568,
+                "title": "\u65e9\u7a32\u7530",
+                "sameAs": "odpt.Station:TokyoMetro.Tozai.Waseda",
+                "stationCode": "T04",
+                "long": 139.72219,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Tozai",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4767"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.736413,
+                    35.672104
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.672104,
+                "title": "\u8d64\u5742",
+                "sameAs": "odpt.Station:TokyoMetro.Chiyoda.Akasaka",
+                "stationCode": "C06",
+                "long": 139.736413,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Chiyoda",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46B9"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.75767,
+                    35.69044
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.69044,
+                "title": "\u7af9\u6a4b",
+                "sameAs": "odpt.Station:TokyoMetro.Tozai.Takebashi",
+                "stationCode": "T08",
+                "long": 139.75767,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Tozai",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C471D"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.81768,
+                    35.66959
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.66959,
+                "title": "\u6771\u967d\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Tozai.Toyocho",
+                "stationCode": "T14",
+                "long": 139.81768,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Tozai",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4728"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.893236,
+                    35.665903
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.665903,
+                "title": "\u6d66\u5b89",
+                "sameAs": "odpt.Station:TokyoMetro.Tozai.Urayasu",
+                "stationCode": "T18",
+                "long": 139.893236,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Tozai",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46CC"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.73413,
+                    35.709295
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.709295,
+                "title": "\u6c5f\u6238\u5ddd\u6a4b",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.Edogawabashi",
+                "stationCode": "Y12",
+                "long": 139.73413,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46CE"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.72745,
+                    35.71918
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.71918,
+                "title": "\u8b77\u56fd\u5bfa",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.Gokokuji",
+                "stationCode": "Y11",
+                "long": 139.72745,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46FB"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.73735,
+                    35.684785
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.684785,
+                "title": "\u9eb4\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.Kojimachi",
+                "stationCode": "Y15",
+                "long": 139.73735,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46F8"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.751886,
+                    35.677459
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.677459,
+                "title": "\u685c\u7530\u9580",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.Sakuradamon",
+                "stationCode": "Y17",
+                "long": 139.751886,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4702"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.826605,
+                    35.64578
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.64578,
+                "title": "\u65b0\u6728\u5834",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.ShinKiba",
+                "stationCode": "Y24",
+                "long": 139.826605,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C470B"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.82489,
+                    35.762285
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.762285,
+                "title": "\u7dbe\u702c",
+                "sameAs": "odpt.Station:TokyoMetro.Chiyoda.Ayase",
+                "stationCode": "C19",
+                "long": 139.82489,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Chiyoda",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46BE"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.758765,
+                    35.673955
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.673955,
+                "title": "\u65e5\u6bd4\u8c37",
+                "sameAs": "odpt.Station:TokyoMetro.Chiyoda.Hibiya",
+                "stationCode": "C09",
+                "long": 139.758765,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Chiyoda",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4749"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.75177,
+                    35.67256
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.67256,
+                "title": "\u971e\u30b1\u95a2",
+                "sameAs": "odpt.Station:TokyoMetro.Chiyoda.Kasumigaseki",
+                "stationCode": "C08",
+                "long": 139.75177,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Chiyoda",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46E2"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.804403,
+                    35.7492
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.7492,
+                "title": "\u5317\u5343\u4f4f",
+                "sameAs": "odpt.Station:TokyoMetro.Chiyoda.KitaSenju",
+                "stationCode": "C18",
+                "long": 139.804403,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Chiyoda",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46EC"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.743188,
+                    35.673566
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.673566,
+                "title": "\u56fd\u4f1a\u8b70\u4e8b\u5802\u524d",
+                "sameAs": "odpt.Station:TokyoMetro.Chiyoda.KokkaiGijidomae",
+                "stationCode": "C07",
+                "long": 139.743188,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Chiyoda",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46FF"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.780047,
+                    35.742068
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.742068,
+                "title": "\u753a\u5c4b",
+                "sameAs": "odpt.Station:TokyoMetro.Chiyoda.Machiya",
+                "stationCode": "C17",
+                "long": 139.780047,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Chiyoda",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C474F"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.703944,
+                    35.669123
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.669123,
+                "title": "\u660e\u6cbb\u795e\u5bae\u524d\u3008\u539f\u5bbf\u3009",
+                "sameAs": "odpt.Station:TokyoMetro.Chiyoda.MeijiJingumae",
+                "stationCode": "C03",
+                "long": 139.703944,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Chiyoda",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4759"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.679884,
+                    35.669017
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.669017,
+                "title": "\u4ee3\u3005\u6728\u4e0a\u539f",
+                "sameAs": "odpt.Station:TokyoMetro.Chiyoda.YoyogiUehara",
+                "stationCode": "C01",
+                "long": 139.679884,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Chiyoda",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4762"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.76689,
+                    35.732355
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.732355,
+                "title": "\u897f\u65e5\u66ae\u91cc",
+                "sameAs": "odpt.Station:TokyoMetro.Chiyoda.NishiNippori",
+                "stationCode": "C16",
+                "long": 139.76689,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Chiyoda",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4737"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.711346,
+                    35.665652
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.665652,
+                "title": "\u8868\u53c2\u9053",
+                "sameAs": "odpt.Station:TokyoMetro.Chiyoda.OmoteSando",
+                "stationCode": "C04",
+                "long": 139.711346,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Chiyoda",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46DB"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.763285,
+                    35.68525
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.68525,
+                "title": "\u5927\u624b\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Chiyoda.Otemachi",
+                "stationCode": "C11",
+                "long": 139.763285,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Chiyoda",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46D4"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.76545,
+                    35.696925
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.696925,
+                "title": "\u65b0\u5fa1\u8336\u30ce\u6c34",
+                "sameAs": "odpt.Station:TokyoMetro.Chiyoda.ShinOchanomizu",
+                "stationCode": "C12",
+                "long": 139.76545,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Chiyoda",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C470A"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.644001,
+                    35.76998
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.76998,
+                "title": "\u5730\u4e0b\u9244\u8d64\u585a",
+                "sameAs": "odpt.Station:TokyoMetro.Fukutoshin.ChikatetsuAkatsuka",
+                "stationCode": "F03",
+                "long": 139.644001,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Fukutoshin",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C9706"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.69848,
+                    35.733215
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.733215,
+                "title": "\u8981\u753a",
+                "sameAs": "odpt.Station:TokyoMetro.Fukutoshin.Kanamecho",
+                "stationCode": "F08",
+                "long": 139.69848,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Fukutoshin",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46E4"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.63117,
+                    35.77674
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.77674,
+                "title": "\u5730\u4e0b\u9244\u6210\u5897",
+                "sameAs": "odpt.Station:TokyoMetro.Fukutoshin.ChikatetsuNarimasu",
+                "stationCode": "F02",
+                "long": 139.63117,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Fukutoshin",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C9707"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6543,
+                    35.757555
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.757555,
+                "title": "\u5e73\u548c\u53f0",
+                "sameAs": "odpt.Station:TokyoMetro.Fukutoshin.Heiwadai",
+                "stationCode": "F04",
+                "long": 139.6543,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Fukutoshin",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C9705"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.707846,
+                    35.699829
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.699829,
+                "title": "\u6771\u65b0\u5bbf",
+                "sameAs": "odpt.Station:TokyoMetro.Fukutoshin.HigashiShinjuku",
+                "stationCode": "F12",
+                "long": 139.707846,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Fukutoshin",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4746"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.66547,
+                    35.74962
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.74962,
+                "title": "\u6c37\u5ddd\u53f0",
+                "sameAs": "odpt.Station:TokyoMetro.Fukutoshin.Hikawadai",
+                "stationCode": "F05",
+                "long": 139.66547,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Fukutoshin",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C9704"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.71115,
+                    35.730345
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.730345,
+                "title": "\u6c60\u888b",
+                "sameAs": "odpt.Station:TokyoMetro.Fukutoshin.Ikebukuro",
+                "stationCode": "F09",
+                "long": 139.71115,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Fukutoshin",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46C5"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.67952,
+                    35.743395
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.743395,
+                "title": "\u5c0f\u7af9\u5411\u539f",
+                "sameAs": "odpt.Station:TokyoMetro.Fukutoshin.KotakeMukaihara",
+                "stationCode": "F06",
+                "long": 139.67952,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Fukutoshin",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46FD"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.70524,
+                    35.668205
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.668205,
+                "title": "\u660e\u6cbb\u795e\u5bae\u524d\u3008\u539f\u5bbf\u3009",
+                "sameAs": "odpt.Station:TokyoMetro.Fukutoshin.MeijiJingumae",
+                "stationCode": "F15",
+                "long": 139.70524,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Fukutoshin",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C475A"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6894,
+                    35.738175
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.738175,
+                "title": "\u5343\u5ddd",
+                "sameAs": "odpt.Station:TokyoMetro.Fukutoshin.Senkawa",
+                "stationCode": "F07",
+                "long": 139.6894,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Fukutoshin",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4719"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.70257,
+                    35.659092
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.659092,
+                "title": "\u6e0b\u8c37",
+                "sameAs": "odpt.Station:TokyoMetro.Fukutoshin.Shibuya",
+                "stationCode": "F16",
+                "long": 139.70257,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Fukutoshin",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4705"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.704727,
+                    35.690609
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.690609,
+                "title": "\u65b0\u5bbf\u4e09\u4e01\u76ee",
+                "sameAs": "odpt.Station:TokyoMetro.Fukutoshin.ShinjukuSanchome",
+                "stationCode": "F13",
+                "long": 139.704727,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Fukutoshin",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4710"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.612865,
+                    35.78835
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.78835,
+                "title": "\u548c\u5149\u5e02",
+                "sameAs": "odpt.Station:TokyoMetro.Fukutoshin.Wakoshi",
+                "stationCode": "F01",
+                "long": 139.612865,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Fukutoshin",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C9708"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.807115,
+                    35.669356
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.669356,
+                "title": "\u6728\u5834",
+                "sameAs": "odpt.Station:TokyoMetro.Tozai.Kiba",
+                "stationCode": "T13",
+                "long": 139.807115,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Tozai",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C46ED"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.81033,
+                    35.645775
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.645775,
+                "title": "\u8fb0\u5df3",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.Tatsumi",
+                "stationCode": "Y23",
+                "long": 139.81033,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2022-03-15T11:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C471E"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.795994,
+                    35.655153
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.655153,
+                "title": "\u8c4a\u6d32",
+                "sameAs": "odpt.Station:TokyoMetro.Yurakucho.Toyosu",
+                "stationCode": "Y22",
+                "long": 139.795994,
+                "operator": "odpt.Operator:TokyoMetro",
+                "context": "http://vocab.odpt.org/context_odpt.jsonld",
+                "date": "2024-03-27T09:00:00+09:00",
+                "railway": "odpt.Railway:TokyoMetro.Yurakucho",
+                "type": "Station",
+                "id": "urn:ucode:_00001C000000000000010000030C4729"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0574991211008,
+                    36.23381389488639
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "594a1002-269f-4332-b443-de5a02159549"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.06598300781442,
+                    36.231598438525054
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "e9d78ed9-4e2c-40d8-9b17-239a1ec13cc1"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.93964023438156,
+                    35.82734160393482
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "f194fc47-7afa-4940-9899-e7ad5087d9d4"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.34589023437033,
+                    36.42189809334887
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "bf306280-fcd5-4846-a3c8-8d3b1198cdcd"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7581216796829,
+                    36.73949724663853
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "e2fba110-0c83-4bf5-9ac9-b2e62450ee0d"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.5496255859435,
+                    36.73509509936223
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "aecad83b-28d8-41f9-b409-5bb5389b63e5"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.58282871093942,
+                    35.76050690158609
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "aed0cfb2-4306-4947-8d0e-ebeb978f9271"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.93939609375005,
+                    35.80284207384228
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "bdf2a1f0-514a-4d60-a89b-baa3860e304c"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.58508701171576,
+                    35.9897377122738
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "eab2cd38-d281-42a7-b0a0-5b67868d2c53"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.22940463867076,
+                    35.87186683208558
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "4f77f4dd-c3da-4f82-9970-3b9129525cf7"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.25824374999414,
+                    35.64006285976033
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "515891bf-7608-4fed-a4bc-158e5d349c7e"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.44363803710237,
+                    35.3639199161778
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "49cd11f8-faa6-46f6-a5ca-3edf2a4c308b"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.77460117187405,
+                    35.29781828767221
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "bc09805c-a6a0-4927-9256-d684ba44af01"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0835916503848,
+                    35.59540780354127
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "9d650bf9-5555-4286-9a3e-9cde35f287a3"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.04788608398104,
+                    35.91747923818053
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "364b36f6-e03f-4abc-889c-302ab464e622"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6386453613214,
+                    36.005292423057824
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "84e44c70-2ff0-4dad-a166-148090518e53"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.26236362304417,
+                    35.51384808002172
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "24673245-ac11-4885-99b2-a2fb069f18c4"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.76503345568779,
+                    139.50467993967376
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "89da675c-23ff-4657-a7c0-01a6bff82cd1"
+            }
+        }
+    ]
+}
